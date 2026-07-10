@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DIABLO.IO — Co-op</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%;background:#08060a;color:#e8e0d5;font-family:'Georgia',serif;overflow:hidden}
+  body{display:flex;align-items:center;justify-content:center;
+    background:radial-gradient(900px 420px at 50% 30%,rgba(180,20,20,.16),transparent 60%),#08060a}
+  .box{text-align:center;padding:24px}
+  .skull{font-size:56px;filter:drop-shadow(0 0 16px #b41414);animation:pulse 1.8s ease-in-out infinite}
+  @keyframes pulse{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.08);opacity:1}}
+  h1{font-size:40px;letter-spacing:4px;margin:14px 0 6px}
+  h1 b{color:#ff1e1e}
+  .sub{font-family:monospace;color:#9a8f9c;font-size:13px;letter-spacing:2px}
+  .status{margin-top:26px;font-family:monospace;font-size:13px;color:#c9a24b;min-height:20px}
+  .dots::after{content:'';animation:dots 1.4s steps(4,end) infinite}
+  @keyframes dots{0%{content:''}25%{content:'.'}50%{content:'..'}75%{content:'...'}}
+  .err{margin-top:18px;font-family:monospace;font-size:12px;color:#ff6b6b;line-height:1.7;display:none;max-width:420px}
+  .err.show{display:block}
+  a.retry{color:#39ff88;text-decoration:none;border:1px solid #39ff88;padding:6px 14px;border-radius:6px;display:inline-block;margin-top:10px;font-size:12px}
+</style>
+</head>
+<body>
+  <div class="box">
+    <div class="skull">☠</div>
+    <h1>DIABLO<b>.IO</b></h1>
+    <div class="sub">3 KİŞİLİK CO-OP</div>
+    <div class="status dots" id="st">sunucuya bağlanılıyor</div>
+    <div class="err" id="err">
+      Sunucu şu an kapalı görünüyor.<br>Host'un bilgisayarı açık ve oyun çalışıyor olmalı.<br>
+      <a class="retry" href="javascript:location.reload()">↻ tekrar dene</a>
+    </div>
+  </div>
+<script>
+(async function(){
+  const st = document.getElementById('st'), err = document.getElementById('err');
+  try {
+    const r = await fetch('./link.txt?t=' + Date.now(), { cache: 'no-store' });
+    const url = (await r.text()).trim();
+    if (!/^https?:\/\//.test(url)) throw new Error('link yok');
+    // sunucu canlı mı hızlı kontrol
+    st.textContent = 'oyuna giriliyor';
+    location.replace(url);
+  } catch (e) {
+    st.style.display = 'none';
+    err.classList.add('show');
+  }
+})();
+</script>
+</body>
+</html>
