@@ -1,1 +1,1 @@
-https://incoming-san-tobacco-comfortable.trycloudflare.com
+https://api.trycloudflare.com
