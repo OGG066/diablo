@@ -1,1 +1,1 @@
-https://nascar-shell-former-poker.trycloudflare.com
+https://api.trycloudflare.com
