@@ -1,1 +1,1 @@
-https://streams-patio-las-longest.trycloudflare.com
+https://api.trycloudflare.com
