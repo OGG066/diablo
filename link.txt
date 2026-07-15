@@ -1,1 +1,1 @@
-https://show-base-listen-basename.trycloudflare.com
+https://api.trycloudflare.com
