@@ -1,1 +1,1 @@
-https://constitute-ref-leone-susan.trycloudflare.com
+https://api.trycloudflare.com
