@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://thinking-others-forum-motorola.trycloudflare.com
