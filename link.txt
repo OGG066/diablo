@@ -1,1 +1,1 @@
-https://singh-assignment-factors-familiar.trycloudflare.com
+https://api.trycloudflare.com
