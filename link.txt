@@ -1,1 +1,1 @@
-https://furniture-ratios-satisfactory-allan.trycloudflare.com
+https://api.trycloudflare.com
