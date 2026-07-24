@@ -1,1 +1,1 @@
-https://race-observe-chip-warehouse.trycloudflare.com
+https://api.trycloudflare.com
