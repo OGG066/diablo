@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://amount-figures-patrol-dover.trycloudflare.com
