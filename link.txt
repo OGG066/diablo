@@ -1,1 +1,1 @@
-https://lou-centuries-chain-pixels.trycloudflare.com
+https://api.trycloudflare.com
