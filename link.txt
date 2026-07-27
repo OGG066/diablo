@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://heating-spring-fossil-canvas.trycloudflare.com
