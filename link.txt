@@ -1,1 +1,1 @@
-https://bridge-looked-said-briefly.trycloudflare.com
+https://api.trycloudflare.com
