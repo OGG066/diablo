@@ -1,1 +1,1 @@
-https://marilyn-chassis-tissue-everything.trycloudflare.com
+https://api.trycloudflare.com
