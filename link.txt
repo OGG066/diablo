@@ -1,1 +1,1 @@
-https://diameter-reply-plains-enrolled.trycloudflare.com
+https://api.trycloudflare.com
