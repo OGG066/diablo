@@ -1,1 +1,1 @@
-https://explained-unique-step-locking.trycloudflare.com
+https://api.trycloudflare.com
