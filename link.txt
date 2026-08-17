@@ -1,1 +1,1 @@
-https://fruits-over-psychiatry-baths.trycloudflare.com
+https://api.trycloudflare.com
