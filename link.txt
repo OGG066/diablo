@@ -1,1 +1,1 @@
-https://atlanta-hire-mathematical-readers.trycloudflare.com
+https://api.trycloudflare.com
