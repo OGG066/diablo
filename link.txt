@@ -1,1 +1,1 @@
-https://asylum-demanding-deutschland-people.trycloudflare.com
+https://api.trycloudflare.com
