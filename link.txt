@@ -1,1 +1,1 @@
-https://call-patrol-blessed-gbp.trycloudflare.com
+https://api.trycloudflare.com
