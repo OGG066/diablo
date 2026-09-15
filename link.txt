@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://sector-perhaps-someone-ten.trycloudflare.com
