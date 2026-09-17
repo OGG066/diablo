@@ -1,1 +1,1 @@
-https://balance-predict-figure-logan.trycloudflare.com
+https://api.trycloudflare.com
