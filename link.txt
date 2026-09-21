@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://its-destinations-enabling-minneapolis.trycloudflare.com
