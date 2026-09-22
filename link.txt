@@ -1,1 +1,1 @@
-https://clear-moral-simpsons-listed.trycloudflare.com
+https://api.trycloudflare.com
