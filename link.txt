@@ -1,1 +1,1 @@
-https://southern-northwest-paperbacks-does.trycloudflare.com
+https://api.trycloudflare.com
