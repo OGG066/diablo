@@ -1,1 +1,1 @@
-https://catalogue-peninsula-beverage-honor.trycloudflare.com
+https://api.trycloudflare.com
