@@ -1,1 +1,1 @@
-https://stocks-solutions-paste-equity.trycloudflare.com
+https://api.trycloudflare.com
