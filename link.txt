@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://xml-dish-collect-statutes.trycloudflare.com
