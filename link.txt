@@ -1,1 +1,1 @@
-https://evaluate-adoption-troy-cam.trycloudflare.com
+https://api.trycloudflare.com
