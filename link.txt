@@ -1,1 +1,1 @@
-https://gas-chem-fifth-enlargement.trycloudflare.com
+https://api.trycloudflare.com
