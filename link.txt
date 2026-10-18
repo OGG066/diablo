@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://shakira-potter-smtp-genres.trycloudflare.com
