@@ -1,1 +1,1 @@
-https://presently-emperor-majority-tampa.trycloudflare.com
+https://api.trycloudflare.com
