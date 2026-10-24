@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://enrolled-strips-mesa-springs.trycloudflare.com
