@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://logging-ave-stan-voltage.trycloudflare.com
