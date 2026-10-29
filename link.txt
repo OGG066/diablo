@@ -1,1 +1,1 @@
-https://cheers-miller-cleaning-clay.trycloudflare.com
+https://api.trycloudflare.com
