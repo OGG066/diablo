@@ -1,1 +1,1 @@
-https://finding-planning-ready-blessed.trycloudflare.com
+https://api.trycloudflare.com
