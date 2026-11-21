@@ -1,1 +1,1 @@
-https://subjective-gentleman-ideal-worker.trycloudflare.com
+https://api.trycloudflare.com
