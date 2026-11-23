@@ -1,1 +1,1 @@
-https://score-hanging-avenue-das.trycloudflare.com
+https://api.trycloudflare.com
